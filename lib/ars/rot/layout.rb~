@@ -1,0 +1,6 @@
+module Ars
+  module ROT
+    module Layout
+    end
+  end
+end
